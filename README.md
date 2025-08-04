@@ -1,1 +1,1 @@
-# SherlynMartinez.github.io
+git rm SherlynMartinez.github.io
